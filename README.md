@@ -35,14 +35,20 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A short relation of the departure of the high and mightie Prince Frederick King Elect of Bohemia: wi
+
+1. To the Reader.
+
 #####Body#####
 
-1. Fridericus quintus Elector Palatinus
+1. THE DEPARTVRE OF the high & mighty Prince Frederick King Elect of Bohemia: with his royall, & vertuous ladie Elizabeth: and the most hopefull yong Prince Henrie, from Heydelberg, towards Prague, to receave the crowne of that Kingdome.
+Fridericus quintus Elector PalatinusAnagramma.Quanta fide prole inclytus is recturus?EpigrammaIure l
+    _ Fridericus quintus Elector Palatinus
 
-1. Fredericus quintus Elector Palatinus
+    _ Fredericus quintus Elector Palatinus
 
-1. Ferdinandus secundus Archidux Austriae
+    _ Ferdinandus secundus Archidux Austriae
+
+1. A SHORT AND TRVE RELATION OF The Coronation of the King of Bohemia Fridericke the first of that name. With the Ceremonies, and prayers accustomed at the Crownotion, and receiuing of the King. As also the Triumphes, and showes their don in Honour of the Kings Maiestie.
 THis Solempnity was performed, on Monday the 25 of October last 1619. The Coronation of the Queene, 
 **Types of content**
 
